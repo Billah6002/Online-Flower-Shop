@@ -1,0 +1,40 @@
+.latest-deal{
+    width: 1440px;
+    height: 449px;
+    background-image: url("/Flower\ Asset/Rectangle\ 9.png");
+    margin-left: 245px;
+    margin-top: 128px;
+}
+
+.ltd-heading{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    /* margin-top: px; */
+    padding-top: 122px;
+}
+.ltd-para{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.ltd-input{
+    border-radius: 8px;
+    background: #FFF;
+    width: 700px;
+    height: 64px;
+    border-style: none;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 287px;
+    margin-top: 48px;
+    height: 64px;
+}
+.ltd-btn{
+    margin-left: 16px;
+    height: 64px;
+}
