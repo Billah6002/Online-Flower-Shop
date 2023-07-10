@@ -1,0 +1,36 @@
+
+/* Contact section related styles */
+.contact-section{
+    width: 1440px;
+    height: 320px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 128px 240px 0 240px;
+    display: flex;
+}
+.text-font{
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+}
+.text-1{
+    margin-top: 24px;
+    margin-left: 175px;
+}
+.text-2{
+    margin-top: 24px;
+    margin-left: 100px;
+}
+.img-1{
+    margin-left: 317px;
+    margin-top: 86px;
+}
+.img-2{
+    margin-left: 214px;
+    margin-top: 86px;
+}
+.img-3{
+    margin-left: 157px;
+    margin-top: 86px;
+}
